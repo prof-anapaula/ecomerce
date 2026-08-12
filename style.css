@@ -11,12 +11,12 @@ h1{
 #banner{
     width: 100%;
 }
-.itens{
-    font-style: italic;
+.principal{
+    background: #CCCCCC;
 }
 .beneficios{
     background: #FFFFFF;
 }
-.principal{
-    background: #CCCCCC;
+.itens{
+    font-style: italic;
 }
