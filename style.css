@@ -11,12 +11,23 @@ h1{
 #banner{
     width: 100%;
 }
+h2{
+    text-align: center;
+}
 .principal{
     background: #CCCCCC;
+    padding: 30px;
 }
 .beneficios{
     background: #FFFFFF;
+    padding: 20px;
 }
 .itens{
     font-style: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
