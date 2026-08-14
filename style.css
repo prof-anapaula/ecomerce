@@ -14,6 +14,12 @@ h1{
 h2{
     text-align: center;
 }
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
 .principal{
     background: #CCCCCC;
     padding: 30px;
@@ -24,10 +30,4 @@ h2{
 }
 .itens{
     font-style: italic;
-}
-ul{
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
 }
