@@ -4,7 +4,7 @@ header{
 nav{
     position: absolute;
     top: 110px;
-    margin: 0 auto;
+    right: 0;
 }
 nav li{
     display: inline;
@@ -20,5 +20,5 @@ nav a{
 .caixa{
     position: relative;
     width: 940px;
-    right: 0 auto;
+    margin: 0 auto;
 }
