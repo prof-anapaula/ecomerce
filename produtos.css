@@ -40,7 +40,7 @@ nav a:hover {
 }
 
 .produtos li {
-	display: flex;
+	display: inline-block;
 	text-align: center;
 	width: 30%;
 	vertical-align: top;
@@ -107,5 +107,11 @@ form input {
     display: block;
     margin: 0 0 20px;
     padding: 10px 25px;
+    width: 50%;
+}
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+   padding: 10px 25px;
     width: 50%;
 }
