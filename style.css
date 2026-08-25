@@ -14,7 +14,7 @@ body{
 h2{
     text-align: center;
 }
-ul{
+.lista-beneficios{
     display: inline-block;
     vertical-align: top;
     width: 20%;
