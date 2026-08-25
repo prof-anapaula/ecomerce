@@ -40,7 +40,7 @@ nav a:hover {
 }
 
 .produtos li {
-	display: inline-block;
+	display: flex;
 	text-align: center;
 	width: 30%;
 	vertical-align: top;
