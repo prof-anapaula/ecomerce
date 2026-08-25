@@ -1,7 +1,7 @@
 body{
     background: #CCCCCC;
 }
-h1{
+.titulo-barbearia{
     text-align: center;
     height: 150px;
     border: 10px solid #000000;
